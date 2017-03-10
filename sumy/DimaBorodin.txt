@@ -1,2 +1,4 @@
 Dima Borodin text file
 Modifying file.
+
+Changing file while in new branch.

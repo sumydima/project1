@@ -13,6 +13,7 @@
 		9FDA26C01E727F7B0019F48A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FDA26BF1E727F7B0019F48A /* Assets.xcassets */; };
 		9FDA26C31E727F7B0019F48A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FDA26C11E727F7B0019F48A /* LaunchScreen.storyboard */; };
 		9FDA26CB1E7287540019F48A /* DimaBorodin.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9FDA26CA1E7287540019F48A /* DimaBorodin.txt */; };
+		9FDA26CD1E7289340019F48A /* branch.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9FDA26CC1E7289340019F48A /* branch.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9FDA26C21E727F7B0019F48A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9FDA26C41E727F7B0019F48A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9FDA26CA1E7287540019F48A /* DimaBorodin.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = DimaBorodin.txt; sourceTree = "<group>"; };
+		9FDA26CC1E7289340019F48A /* branch.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = branch.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9FDA26C11E727F7B0019F48A /* LaunchScreen.storyboard */,
 				9FDA26C41E727F7B0019F48A /* Info.plist */,
 				9FDA26CA1E7287540019F48A /* DimaBorodin.txt */,
+				9FDA26CC1E7289340019F48A /* branch.txt */,
 			);
 			path = sumy;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9FDA26C31E727F7B0019F48A /* LaunchScreen.storyboard in Resources */,
+				9FDA26CD1E7289340019F48A /* branch.txt in Resources */,
 				9FDA26CB1E7287540019F48A /* DimaBorodin.txt in Resources */,
 				9FDA26C01E727F7B0019F48A /* Assets.xcassets in Resources */,
 				9FDA26BE1E727F7B0019F48A /* Main.storyboard in Resources */,
